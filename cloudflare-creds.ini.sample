@@ -1,0 +1,2 @@
+dns_cloudflare_email = login email
+dns_cloudflare_api_key = apikey
